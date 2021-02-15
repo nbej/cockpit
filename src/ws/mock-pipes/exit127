@@ -1,3 +1,0 @@
-#/bin/sh
-# exception like in cockpit-session
-exit 127

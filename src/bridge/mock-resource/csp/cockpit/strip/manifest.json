@@ -1,3 +1,0 @@
-{
-    "content-security-policy": "img-src 'self'; default-src 'self'"
-}

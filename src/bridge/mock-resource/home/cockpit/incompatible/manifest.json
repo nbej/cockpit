@@ -1,6 +1,0 @@
-{
-    "description": "incompatible package",
-    "requires": {
-        "cockpit": "999.5"
-    }
-}
